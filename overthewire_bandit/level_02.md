@@ -7,7 +7,7 @@
 The password for the next level is stored in a file called spaces in this filename located in the home directory.
 
 **Solution:**
-I was lasy and hit the <tab> key. This let autocomplete file out the filename and escape the spaces for me.
+I was lasy and hit the < tab > key. This let autocomplete file out the filename and escape the spaces for me.
 
 ```bash
  bandit2@melinda:~$ ls
